@@ -20,3 +20,12 @@ main{
   align-items: center;
   height: 70vh;
 }
+
+footer{
+  display: flex;
+  width: 100vh;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  background-color: darkblue;
+}
